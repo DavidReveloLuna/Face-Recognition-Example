@@ -1,4 +1,4 @@
-"# Face-Recognition-Example" 
+# Face-Recognition-Example
 
 ## 1. Preparación del entorno
     $ conda create -n Face anaconda python=3.7.7
