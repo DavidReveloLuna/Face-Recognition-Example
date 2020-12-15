@@ -34,7 +34,7 @@
     
 ### Landmarks
 
-![Landmarks](https://github.com/DavidReveloLuna/Face-Recognition-Example/blob/master/assets/foto1.jpg)
+![Landmarks](https://github.com/DavidReveloLuna/Face-Recognition-Example/blob/master/assets/foto1.png)
 
 ### Predicción
 
