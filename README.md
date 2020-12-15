@@ -1,6 +1,6 @@
 # Face-Recognition-Example
 
-## 1. Preparación del entorno
+## Preparación del entorno
     $ conda create -n Face anaconda python=3.7.7
     $ conda activate Face
     $ conda install ipykernel
@@ -39,3 +39,11 @@
 ### Predicción
 
 ![Landmarks](https://github.com/DavidReveloLuna/Face-Recognition-Example/blob/master/assets/foto2.jpg)
+
+## Agradecimientos
+Author: Face_recognition
+[Adam Geitgey](https://pypi.org/project/face-recognition/)
+
+Author: DeepFace
+[Sefik Ilkin Serengil](https://pypi.org/project/face-recognition/)
+
