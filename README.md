@@ -31,6 +31,15 @@
     * Real-Time emotion recognition
     
 
+### Download Pre-trained models
+        
+   [Facial_expression_model_weights](https://drive.google.com/uc?id=13iUHHP3SlNg53qSuQZDdHDSDNdBP9nwy)
+
+   [Age_model_weights](https://drive.google.com/uc?id=1YCox_4kJ-BYeXq27uUbasu--yz28zUMV)
+     
+   [Gender_model_weights]( https://drive.google.com/uc?id=1wUXRVlbsni2FN9-jkS_f4UTUrm1bRLyk)     
+       
+   [Race_model_single_batch.zip ](https://drive.google.com/uc?id=1nz-WDhghGQBC4biwShQ9kYjvQMpO6smj )
     
 ### Landmarks
 
