@@ -54,5 +54,5 @@ Author: Face_recognition
 [Adam Geitgey](https://pypi.org/project/face-recognition/)
 
 Author: DeepFace
-[Sefik Ilkin Serengil](https://pypi.org/project/face-recognition/)
+[Sefik Ilkin Serengil](https://pypi.org/project/deepface/)
 
