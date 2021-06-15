@@ -56,3 +56,5 @@ Author: Face_recognition
 Author: DeepFace
 [Sefik Ilkin Serengil](https://pypi.org/project/deepface/)
 
+# **Canal de Youtube**
+[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
